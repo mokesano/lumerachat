@@ -1,4 +1,5 @@
 # --- WIZDAM NLP STOPWORDS ---
+
 # [INTENT] Indikator Context Aware
 [INTENT] jelaskan
 [INTENT] fungsi
